@@ -1,0 +1,36 @@
+button.btn-download {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+  border-radius: 20px;
+  width:auto;
+  height:70px;
+  margin-top:30px;
+}
+div.container {
+  display: flex;
+  vertical-align: central;
+  text-align:center;
+  margin-top:200px;
+}
+div.div-imagen {
+  display: flex;
+  text-align: center;
+  flex: 1;
+  vertical-align: central;
+}
+div.div-texto {
+  display: flex;
+  font-size: inherit;
+  text-align: center;
+  flex:3;
+  vertical-align:central;
+  height:500px;
+  margin-top:150px;
+}
+img.imgSA {
+  border-radius: 20px;
+  width:400px;
+  height:300px;
+}
+
